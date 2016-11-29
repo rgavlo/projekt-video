@@ -1,0 +1,26 @@
+* {
+     box-sizing: border-box;
+}
+
+body {
+    display: block;
+   
+    
+}
+
+
+
+video {
+    
+    position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+
+   
+    
+}
